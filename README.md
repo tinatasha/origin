@@ -1,8 +1,8 @@
 # Git-search
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
-## By **Nathan Ng'ethe**
+## By **Tina Tasha**
 
 
 ## Description
@@ -22,7 +22,7 @@ First run:
 Then navigate to `http://localhost:4200/` on your browser.
 
 #### Live link
-If you don't want to run the app from your local browser you can acces it through the live link: https://lendilai.github.io/Git-Tracker/
+If you don't want to run the app from your local browser you can acces it through the live link:https://tinatasha.github.io/origin/
 
 ## Working mechanism
 - Enter the username of the user you wish to view.
@@ -73,7 +73,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## LICENSE
-The application is under an [MIT License](https://github.com/lendilai/Git-Tracker/blob/master/License.txt).
+The application is under an [MIT License].
 
 
 ## Contact Information
